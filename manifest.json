@@ -1,0 +1,10 @@
+{
+  "name": "Robbo's mod pack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/robclancy/valheim-modpack",
+  "description": "For my server.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901",
+    "robclancy-Bigger_Chests-1.0.2"
+  ]
+}
